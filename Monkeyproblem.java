@@ -20,6 +20,9 @@ public class Main {
         if (monkeysLeft < 0) {
             monkeysLeft = 0;
         }
+        if(monkeysPeanut%p==0 || monkeysBanana%m==0){
+            monkeysLeft -=1;
+        }
         System.out.println("Number of Monkeys left on the Tree:" + monkeysLeft);
     }
 }
