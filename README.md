@@ -1,0 +1,2 @@
+# S4AJIET_AIML1_Vinayak
+This repo consists of all the leet code solution
