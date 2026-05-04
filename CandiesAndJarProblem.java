@@ -13,13 +13,13 @@ public class Main {
                 System.out.println("INVALID INPUT");
                 sc.next();
                 i--;
-                continue;
+                return;
             }
             int order = sc.nextInt();
             if (order > candies) {
                 System.out.println("INVALID INPUT");
                 i--;
-                continue;
+                return;
             }
             candies -= order;
             System.out.println("Number of Candies Sold: " + order);
