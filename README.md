@@ -1,6 +1,11 @@
 # S4AJIET_AIML1_Vinayak
 
-This repository contains solutions to LeetCode problems implemented in Java.
+![Java](https://img.shields.io/badge/Language-Java-orange?style=flat&logo=java)
+![LeetCode](https://img.shields.io/badge/Platform-LeetCode-yellow?style=flat&logo=leetcode)
+![Placement Training](https://img.shields.io/badge/Purpose-Placement%20Training-blue?style=flat)
+
+A curated collection of Java programs developed as part of **Placement Training** at **S4AJIET**.  
+Covers core programming concepts including bit manipulation, array operations, and mathematical logic problems — all commonly asked in technical interviews.
 
 ---
 
@@ -16,3 +21,31 @@ This repository contains solutions to LeetCode problems implemented in Java.
 | `CandiesAndJarProblem.java` |Candies ordering and refilling problem |
 | `FindingMin&MaxinArray.java` |Java program to find min and max in array |
 | `KthLargestElementInArray.java` |Kth largest element finder in array |
+
+---
+
+## 🚀 How to Run
+
+**Prerequisites:** Java JDK 8 or above
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/S4AJIET_AIML1_Vinayak.git
+
+# Navigate into the folder
+cd S4AJIET_AIML1_Vinayak
+
+# Compile any file
+javac SumofTwoInteger.java
+
+# Run it
+java SumofTwoInteger
+```
+
+---
+
+## 👤 Author
+
+**Vinayak**  
+Student @ AJIET | AIML Department | Batch S4  
+📍 Placement Training — 2025
