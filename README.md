@@ -12,7 +12,7 @@ Covers core programming concepts including bit manipulation, array operations, a
 ## 📂 Solutions
 
 | 🔢 SLno.  | 📄 File Name            | 📝 Description                                             |
-|-----------| ----------------------- | ------------------------------------------------------------ |
+| --------- | ----------------------- | ------------------------------------------------------------ |
 | 1 | `SumofTwoInteger.java` | Sum of two integers without using `+` and `-` operators |
 | 2 | `SwapTwoNumberswith3variables.java` | Swap two numbers with 3 variables that is a,b,temp |
 | 3 | `SwapTwoNumberswith2variables.java` | Swap two numbers with 2 variables that is a,b |
@@ -32,6 +32,7 @@ Covers core programming concepts including bit manipulation, array operations, a
 | 17 | `TargetSum.java` |Finding Number pairs and pairs of target sum in a array |
 | 18 | `CountingConsonants&Vowels.java` |Counting consonants and vowels in a given string |
 | 19 | `CountingDuplicates.java` |Counting duplicate characters in String |
+| 20 | `RemoevingSpacesFromString.java` |Remove spaces from a string input by the user |
 
 ---
 
