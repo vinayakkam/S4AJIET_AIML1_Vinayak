@@ -21,6 +21,7 @@ Covers core programming concepts including bit manipulation, array operations, a
 | `CandiesAndJarProblem.java` |Candies ordering and refilling problem |
 | `FindingMin&MaxinArray.java` |Java program to find min and max in array |
 | `KthLargestElementInArray.java` |Kth largest element finder in array |
+| `ClassRepresentativeProblem.java` |Problem finds lowest ranks and counts until reaching it |
 
 ---
 
