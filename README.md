@@ -31,6 +31,7 @@ Covers core programming concepts including bit manipulation, array operations, a
 | 16 | `ValidAnagram.java` |Checks whether given array is a valid anagram |
 | 17 | `TargetSum.java` |Finding Number pairs and pairs of target sum in a array |
 | 18 | `CountingConsonants&Vowels.java` |Counting consonants and vowels in a given string |
+| 19 | `CountingDuplicates.java` |Counting duplicate characters in String |
 
 ---
 
