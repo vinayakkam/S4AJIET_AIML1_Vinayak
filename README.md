@@ -50,5 +50,5 @@ java SumofTwoInteger
 ## 👤 Author
 
 **Vinayak**  
-Student @ AJIET | AIML Department | Batch S4  
+Student @ AJIET | AIML Department | Batch 1  
 📍 Placement Training — 2025
