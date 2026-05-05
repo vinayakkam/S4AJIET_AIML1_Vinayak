@@ -11,8 +11,8 @@ Covers core programming concepts including bit manipulation, array operations, a
 
 ## 📂 Solutions
 
-|## 🔢 SLno.  |## 📄 File Name            |## 📝 Description                                             |
-|-----------| -------------------- | ------------------------------------------------------- |
+| 🔢 SLno.  | 📄 File Name            | 📝 Description                                             |
+|-----------| ----------------------- | ------------------------------------------------------------ |
 | 1 | `SumofTwoInteger.java` | Sum of two integers without using `+` and `-` operators |
 | 2 | `SwapTwoNumberswith3variables.java` | Swap two numbers with 3 variables that is a,b,temp |
 | 3 | `SwapTwoNumberswith2variables.java` | Swap two numbers with 2 variables that is a,b |
