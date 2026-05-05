@@ -24,6 +24,7 @@ Covers core programming concepts including bit manipulation, array operations, a
 | `ClassRepresentativeProblem.java` |Problem finds lowest ranks and counts until reaching it |
 | `StringOccurenceFrequency.java` |Calculate the frequency of each character in a given string |
 | `NumberReversalwithString.java` |Reversing any given number using String |
+| `NumberReversalWwithoutString.java` |Reversing any given number without using String |
 
 ---
 
