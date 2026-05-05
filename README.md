@@ -11,23 +11,23 @@ Covers core programming concepts including bit manipulation, array operations, a
 
 ## 📂 Solutions
 
-| File Name            | Description                                             |
-| -------------------- | ------------------------------------------------------- |
-| `SumofTwoInteger.java` | Sum of two integers without using `+` and `-` operators |
-| `SwapTwoNumberswith3variables.java` | Swap two numbers with 3 variables that is a,b,temp |
-| `SwapTwoNumberswith2variables.java` | Swap two numbers with 2 variables that is a,b |
-| `SwapTwoNumberswith1operator.java` | Swap Two numbers with one operator that is XOR`^` |
-| `Monkeyproblem.java` | Implement monkey problem logic to calculate remaining monkeys after feeding |
-| `CandiesAndJarProblem.java` |Candies ordering and refilling problem |
-| `FindingMin&MaxinArray.java` |Java program to find min and max in array |
-| `KthLargestElementInArray.java` |Kth largest element finder in array |
-| `ClassRepresentativeProblem.java` |Problem finds lowest ranks and counts until reaching it |
-| `StringOccurenceFrequency.java` |Calculate the frequency of each character in a given string |
-| `NumberReversalwithString.java` |Reversing any given number using String |
-| `NumberReversalWwithoutString.java` |Reversing any given number without using String |
-| `PalindromeOfNumber.java` |Checking Whether a given number is palindrome or not |
-| `StringReverse.java` |Reversing a given string |
-| `PalindromeOfString.java` |Checking Whether given string is palindrome or not |
+|### SLno.  |### File Name            |### Description                                             |
+|-----------| -------------------- | ------------------------------------------------------- |
+| 1 | `SumofTwoInteger.java` | Sum of two integers without using `+` and `-` operators |
+| 2 | `SwapTwoNumberswith3variables.java` | Swap two numbers with 3 variables that is a,b,temp |
+| 3 | `SwapTwoNumberswith2variables.java` | Swap two numbers with 2 variables that is a,b |
+| 4 | `SwapTwoNumberswith1operator.java` | Swap Two numbers with one operator that is XOR`^` |
+| 5 | `Monkeyproblem.java` | Implement monkey problem logic to calculate remaining monkeys after feeding |
+| 6 | `CandiesAndJarProblem.java` |Candies ordering and refilling problem |
+| 7 | `FindingMin&MaxinArray.java` |Java program to find min and max in array |
+| 8 | `KthLargestElementInArray.java` |Kth largest element finder in array |
+| 9 | `ClassRepresentativeProblem.java` |Problem finds lowest ranks and counts until reaching it |
+| 10 | `StringOccurenceFrequency.java` |Calculate the frequency of each character in a given string |
+| 11 | `NumberReversalwithString.java` |Reversing any given number using String |
+| 12 | `NumberReversalWwithoutString.java` |Reversing any given number without using String |
+| 13 | `PalindromeOfNumber.java` |Checking Whether a given number is palindrome or not |
+| 14 | `StringReverse.java` |Reversing a given string |
+| 15 | `PalindromeOfString.java` |Checking Whether given string is palindrome or not |
 
 ---
 
