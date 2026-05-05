@@ -15,3 +15,4 @@ This repository contains solutions to LeetCode problems implemented in Java.
 | `Monkeyproblem.java` | Implement monkey problem logic to calculate remaining monkeys after feeding |
 | `CandiesAndJarProblem.java` |Candies ordering and refilling problem |
 | `FindingMin&MaxinArray.java` |Java program to find min and max in array |
+| `KthLargestElementInArray.java` |Kth largest element finder in array |
