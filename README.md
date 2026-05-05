@@ -29,7 +29,7 @@ Covers core programming concepts including bit manipulation, array operations, a
 | 14 | `StringReverse.java` |Reversing a given string |
 | 15 | `PalindromeOfString.java` |Checking whether given string is palindrome or not |
 | 16 | `ValidAnagram.java` |Checks whether given array is a valid anagram |
-| 17 | `TragetSum.java` |Finding Number pairs and pairs of target sum in a array |
+| 17 | `TargetSum.java` |Finding Number pairs and pairs of target sum in a array |
 
 ---
 
