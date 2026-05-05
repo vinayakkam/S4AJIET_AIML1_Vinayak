@@ -28,7 +28,8 @@ Covers core programming concepts including bit manipulation, array operations, a
 | 13 | `PalindromeOfNumber.java` |Checking whether a given number is palindrome or not |
 | 14 | `StringReverse.java` |Reversing a given string |
 | 15 | `PalindromeOfString.java` |Checking whether given string is palindrome or not |
-| 16 | `ValidAnagram.java` |Checks whether given array is a valid anagram
+| 16 | `ValidAnagram.java` |Checks whether given array is a valid anagram |
+| 17 | `TragetSum.java` |Finding Number pairs and pairs of target sum in a array |
 
 ---
 
