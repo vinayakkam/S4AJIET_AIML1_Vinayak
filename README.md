@@ -23,7 +23,7 @@ Covers core programming concepts including bit manipulation, array operations, a
 | `KthLargestElementInArray.java` |Kth largest element finder in array |
 | `ClassRepresentativeProblem.java` |Problem finds lowest ranks and counts until reaching it |
 | `StringOccurenceFrequency.java` |Calculate the frequency of each character in a given string |
-| `NumberReversal.java` |Reversing any given number |
+| ```NumberReversal.java``` |Reversing any given number |
 
 ---
 
