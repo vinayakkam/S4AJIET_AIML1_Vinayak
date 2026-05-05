@@ -22,7 +22,7 @@ Covers core programming concepts including bit manipulation, array operations, a
 | `FindingMin&MaxinArray.java` |Java program to find min and max in array |
 | `KthLargestElementInArray.java` |Kth largest element finder in array |
 | `ClassRepresentativeProblem.java` |Problem finds lowest ranks and counts until reaching it |
-| `StringOccurenceFrequency.java` |calculate the frequency of each character in a given string |
+| `StringOccurenceFrequency.java` |Calculate the frequency of each character in a given string |
 
 ---
 
