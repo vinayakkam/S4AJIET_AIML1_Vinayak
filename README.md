@@ -27,6 +27,7 @@ Covers core programming concepts including bit manipulation, array operations, a
 | `NumberReversalWwithoutString.java` |Reversing any given number without using String |
 | `PalindromeOfNumber.java` |Checking Whether a given number is palindrome or not |
 | `StringReverse.java` |Reversing a given string |
+| `PalindromeOfString.java` |Checking Whether given string is palindrome or not |
 
 ---
 
