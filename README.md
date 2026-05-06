@@ -39,6 +39,7 @@ Covers core programming concepts including bit manipulation, array operations, a
 | 24 | `ValidPalindromw.java` |Finding Palindrome of a String with Special characters using String Builder |
 | 25 | `MergeSortedArray.java` |Merge function to combine two sorted arrays |
 | 26 | `ListImplemetation.java` |Implemeting List in Java |
+| 27 | `LinkedListImplemetation.java` |Implemetating LinkedList in Java |
 
 ---
 
