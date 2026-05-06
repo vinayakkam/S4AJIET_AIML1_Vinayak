@@ -33,6 +33,8 @@ Covers core programming concepts including bit manipulation, array operations, a
 | 18 | `CountingConsonants&Vowels.java` |Counting consonants and vowels in a given string |
 | 19 | `CountingDuplicates.java` |Counting duplicate characters in String |
 | 20 | `RemoevingSpacesFromString.java` |Remove spaces from a string input by the user |
+| 21 | `RemovingDuplicateIntegers.java` |Remove duplicate integers in a given Array |
+| 22 | `SearchA2DArray.java' |Searching a given integer in 2D Array |
 
 ---
 
