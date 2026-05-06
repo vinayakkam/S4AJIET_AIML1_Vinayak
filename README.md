@@ -41,6 +41,7 @@ Covers core programming concepts including bit manipulation, array operations, a
 | 26 | `ListImplemetation.java` |Implemeting List in Java |
 | 27 | `LinkedListImplemetation.java` |Implemetating LinkedList in Java |
 | 28 | `RemoveElement.java` |Method to remove specified element from array using list |
+| 29 | `HashSetImpletation.java` |Implemeting HashSet in Java |
 
 ---
 
