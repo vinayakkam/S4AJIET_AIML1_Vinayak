@@ -10,5 +10,7 @@ class Main {
         System.out.println(list.get(102));
         list.remove(103);
         System.out.println(list);
+        System.out.println(list.containsKey(104));
+        System.out.println(list.keySet());
      }
 }
