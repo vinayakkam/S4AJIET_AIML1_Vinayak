@@ -37,6 +37,7 @@ Covers core programming concepts including bit manipulation, array operations, a
 | 22 | `SearchA2DArray.java` |Searching a given integer in 2D Array |
 | 23 | `SortColorInAArray.java` |Bubble sort algorithm for color sorting |
 | 24 | `ValidPalindromw.java` |Finding Palindrome of a String with Special characters using String Builder |
+| 25 | `MergeSortedArray.java` |Merge function to combine two sorted arrays |
 
 ---
 
