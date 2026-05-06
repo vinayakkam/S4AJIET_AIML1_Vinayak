@@ -35,6 +35,7 @@ Covers core programming concepts including bit manipulation, array operations, a
 | 20 | `RemoevingSpacesFromString.java` |Remove spaces from a string input by the user |
 | 21 | `RemovingDuplicateIntegers.java` |Remove duplicate integers in a given Array |
 | 22 | `SearchA2DArray.java` |Searching a given integer in 2D Array |
+| 23 | `SortColorInAArray.java` |Bubble sort algorithm for color sorting |
 
 ---
 
