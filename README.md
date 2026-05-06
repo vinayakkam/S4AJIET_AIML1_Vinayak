@@ -45,6 +45,7 @@ Covers core programming concepts including bit manipulation, array operations, a
 | 30 | `TreeSetImpletation.java` |Implemeting TreeSet in Java |
 | 31 | `DivisionofTwoInteger.java` |Implementing integer division without using '/' operator |
 | 32 | `LinkedHashSetImpletation.java` |Implemeting LinkedHashSet in Java |
+| 33 | `Sqrt(x).java` |Finding Sqrt with out `pow(x,0.5)` or `x ** 0.5` |
 
 ---
 
