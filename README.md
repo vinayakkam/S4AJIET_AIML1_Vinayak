@@ -47,7 +47,8 @@ Covers core programming concepts including bit manipulation, array operations, a
 | 32 | `LinkedHashSetImpletation.java` |Implemeting LinkedHashSet in Java |
 | 33 | `Sqrt(x).java` |Finding Sqrt with out `pow(x,0.5)` or `x ** 0.5` |
 | 34 | `HashMapImplemetation.java` |Implemeting HashMap in Java |
-| 35 | `CountingDuplicateUsingHashMap.java` |Counting duplicate characters in String using HashMap | 
+| 35 | `CountingDuplicateUsingHashMap.java` |Counting duplicate characters in String using HashMap |
+| 36 | `Decoding.java` |Decoding a given encoded String |
 
 ---
 
