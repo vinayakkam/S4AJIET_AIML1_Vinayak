@@ -41,11 +41,12 @@ Covers core programming concepts including bit manipulation, array operations, a
 | 26 | `ListImplemetation.java` |Implemeting List in Java |
 | 27 | `LinkedListImplemetation.java` |Implemetating LinkedList in Java |
 | 28 | `RemoveElement.java` |Method to remove specified element from array using list |
-| 29 | `HashSetImpletation.java` |Implemeting HashSet in Java |
-| 30 | `TreeSetImpletation.java` |Implemeting TreeSet in Java |
+| 29 | `HashSetImplemetation.java` |Implemeting HashSet in Java |
+| 30 | `TreeSetImplemetation.java` |Implemeting TreeSet in Java |
 | 31 | `DivisionofTwoInteger.java` |Implementing integer division without using '/' operator |
 | 32 | `LinkedHashSetImpletation.java` |Implemeting LinkedHashSet in Java |
 | 33 | `Sqrt(x).java` |Finding Sqrt with out `pow(x,0.5)` or `x ** 0.5` |
+| 34 | `HashMapImplemetation.java` |Implemeting HashMap in Java |
 
 ---
 
